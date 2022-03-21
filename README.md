@@ -1,6 +1,6 @@
 # Mock-Factory
 
-Generates mocks and test data
+Generates mocks and test data. Heavily inspired by [willlryan/factory.ts](https://github.com/willryan/factory.ts)
 
 ## Wanted Functionality
 
